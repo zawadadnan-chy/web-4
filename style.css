@@ -56,6 +56,7 @@ header {
 	padding: 0px 20px;
 	display: inline-block;
 	color: #0f2656;
+	transition: o.33s;
 }
 
 .menu ul li a:hover {
@@ -217,6 +218,7 @@ footer p {
 }
 footer p a {
 	color: white;
+	text-decoration: none;
 }
 
 /*footer end*/
